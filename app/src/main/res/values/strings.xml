@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">abcd</string>
+    <string name="input_error_name">input_error_name</string>
+    <string name="input_error_email">input_error_email</string>
+    <string name="input_error_email_invalid">input_error_email_invalid</string>
+    <string name="input_error_password">input_error_password</string>
+    <string name="input_error_password_length">input_error_password_length</string>
+    <string name="input_error_phone">input_error_phone</string>
+    <string name="input_error_phone_invalid">input_error_phone_invalid</string>
+    <string name="registration_success">registration_success</string>
+    <string name="full_name">full_name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+</resources>
